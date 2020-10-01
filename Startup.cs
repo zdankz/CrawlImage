@@ -16,7 +16,7 @@ namespace CrawlImage
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
-            // th6
+            // th6//fgdhfgidgfdg
         }
 
         public IConfiguration Configuration { get; }
